@@ -18,7 +18,7 @@ function About() {
             <p className="abt-nav">
               I'd have loved to tell you more about me, but the space provided
               isn't enough, so here are a few words about me; want to know more,
-              feel free to hit me up!
+              feel free to contact me now!!!
             </p>
           </Navbar.Brand>
         </Container>
